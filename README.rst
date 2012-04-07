@@ -19,7 +19,7 @@ in .profile conf
 
 in .vimrc
 
-set term=screen-256color
+    set term=screen-256color
 
 Getting started
 ---------------
